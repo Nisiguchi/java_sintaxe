@@ -3,6 +3,7 @@ public class TipoVariavel {
 
         String meuNome = "Nicole Lino";
 
+        
         double salarioMinimo = 2500;
 
         short numeroCurto =1;
